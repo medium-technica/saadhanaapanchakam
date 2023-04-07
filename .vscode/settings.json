@@ -4,5 +4,6 @@
   "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter",
  },
  "editor.fontFamily": "Rachana",
- "editor.fontSize": 24
+ "editor.fontSize": 24,
+ "editor.maxTokenizationLineLength": 200000
 }

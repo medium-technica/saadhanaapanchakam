@@ -1,9 +1,12 @@
 {
  "editor.formatOnSave": true,
  "[javascript]": {
-  "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter",
+  "editor.defaultFormatter": "vscode.json-language-features",
  },
  "editor.fontFamily": "Rachana",
  "editor.fontSize": 24,
- "editor.maxTokenizationLineLength": 200000
+ "editor.maxTokenizationLineLength": 20000,
+ "editor.wordWrapColumn": 80,
+ "editor.tabSize": 2,
+ "editor.indentSize": "tabSize"
 }
